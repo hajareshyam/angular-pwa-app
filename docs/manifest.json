@@ -1,5 +1,11 @@
 {
   "name": "angular-pwa-app",
+  "dir": "ltr",
+  "lang": "en",
+  "description": "Sample PWA App",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
   "short_name": "angular-pwa-app",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
