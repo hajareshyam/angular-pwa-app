@@ -1,20 +1,20 @@
 {
   "configVersion": 1,
-  "timestamp": 1560378339431,
-  "index": "/angular-pwa-app/index.html",
+  "timestamp": 1560378563615,
+  "index": "https://hajareshyam.github.io/angular-pwa-app/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/angular-pwa-app/es2015-polyfills.b62a0c6b168f504c432e.js",
-        "/angular-pwa-app/favicon.ico",
-        "/angular-pwa-app/index.html",
-        "/angular-pwa-app/main.53d2a7b17749735a72e7.js",
-        "/angular-pwa-app/polyfills.8bbb231b43165d65d357.js",
-        "/angular-pwa-app/runtime.26209474bfa8dc87a77c.js",
-        "/angular-pwa-app/styles.a4b04417597bfcd885a9.css"
+        "https://hajareshyam.github.io/angular-pwa-app/es2015-polyfills.b62a0c6b168f504c432e.js",
+        "https://hajareshyam.github.io/angular-pwa-app/favicon.ico",
+        "https://hajareshyam.github.io/angular-pwa-app/index.html",
+        "https://hajareshyam.github.io/angular-pwa-app/main.53d2a7b17749735a72e7.js",
+        "https://hajareshyam.github.io/angular-pwa-app/polyfills.8bbb231b43165d65d357.js",
+        "https://hajareshyam.github.io/angular-pwa-app/runtime.26209474bfa8dc87a77c.js",
+        "https://hajareshyam.github.io/angular-pwa-app/styles.a4b04417597bfcd885a9.css"
       ],
       "patterns": []
     },
@@ -23,14 +23,14 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/angular-pwa-app/assets/icons/icon-128x128.png",
-        "/angular-pwa-app/assets/icons/icon-144x144.png",
-        "/angular-pwa-app/assets/icons/icon-152x152.png",
-        "/angular-pwa-app/assets/icons/icon-192x192.png",
-        "/angular-pwa-app/assets/icons/icon-384x384.png",
-        "/angular-pwa-app/assets/icons/icon-512x512.png",
-        "/angular-pwa-app/assets/icons/icon-72x72.png",
-        "/angular-pwa-app/assets/icons/icon-96x96.png"
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-128x128.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-144x144.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-152x152.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-192x192.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-384x384.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-512x512.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-72x72.png",
+        "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -60,21 +60,21 @@
     }
   ],
   "hashTable": {
-    "/angular-pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angular-pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angular-pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/angular-pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/angular-pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/angular-pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/angular-pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/angular-pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angular-pwa-app/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
-    "/angular-pwa-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-pwa-app/index.html": "ad68394e7355bcf5055b026583d1cb610d0407ac",
-    "/angular-pwa-app/main.53d2a7b17749735a72e7.js": "4211fe28f24bea5d26dd167a6069988762a28b71",
-    "/angular-pwa-app/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/angular-pwa-app/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/angular-pwa-app/styles.a4b04417597bfcd885a9.css": "303aabac2c6dfde849fbdd836a8078fce276cbe5"
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://hajareshyam.github.io/angular-pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://hajareshyam.github.io/angular-pwa-app/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
+    "https://hajareshyam.github.io/angular-pwa-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://hajareshyam.github.io/angular-pwa-app/index.html": "1552b652f356d21d064eb04dd2c9bd62395f3a44",
+    "https://hajareshyam.github.io/angular-pwa-app/main.53d2a7b17749735a72e7.js": "4211fe28f24bea5d26dd167a6069988762a28b71",
+    "https://hajareshyam.github.io/angular-pwa-app/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://hajareshyam.github.io/angular-pwa-app/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://hajareshyam.github.io/angular-pwa-app/styles.a4b04417597bfcd885a9.css": "303aabac2c6dfde849fbdd836a8078fce276cbe5"
   },
   "navigationUrls": [
     {
